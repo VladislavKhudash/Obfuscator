@@ -4,16 +4,19 @@
 
 ## en
 
+<br>
+
 obfuscator - hides Python code for security purposes but leaves it executable
 
----
+<br>
+
 ## 🚀 Possibilities
 
 - ✅ Obfuscate Python Code
 - ⚙️ It remains executable
 - 📦 Built-in libraries only
-
----
+  
+<br>
 
 ## 🧰 Installation
 
@@ -35,16 +38,19 @@ python obfuscator.py
 
 ## ru
 
+<br>
+
 obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым
 
----
+<br>
+
 ## 🚀 Возможности
 
 - ✅ Запутывает код Python
 - ⚙️ Он остается исполняемым
 - 📦 Только встроенные библиотеки
 
----
+<br>
 
 ## 🧰 Установка
 
