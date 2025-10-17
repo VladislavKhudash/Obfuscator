@@ -23,4 +23,6 @@ git clone https://github.com/VladislavKhudash/Obfuscator.git
 python obfuscator.py
 ```
 
-![Описание картинки](obfuscator.png)
+
+
+!(obfuscator.png)
