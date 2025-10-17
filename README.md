@@ -23,9 +23,9 @@ python obfuscator.py
 ```
 
 ![obfuscator](obfuscator.png)
-
-
-
+#
+#
+#
 ## ru
 obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым.
 
