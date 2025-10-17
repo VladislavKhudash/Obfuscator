@@ -1,6 +1,9 @@
 # 🌟 obfuscator
+
 <br><br>
+
 ## en
+
 obfuscator - hides Python code for security purposes but leaves it executable
 
 ---
@@ -26,9 +29,12 @@ python obfuscator.py
 
 ![obfuscator](obfuscator.png)
 
+
 <br><br><br><br>
 
+
 ## ru
+
 obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым
 
 ---
