@@ -1,6 +1,6 @@
 # 🌟 obfuscator
  
-# en
+## en
 obfuscator - hides Python code for security purposes but leaves it executable.
 
 ---
@@ -26,7 +26,7 @@ python obfuscator.py
 
 
 
-# ru
+## ru
 obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым.
 
 ---
