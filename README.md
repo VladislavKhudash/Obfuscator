@@ -18,5 +18,5 @@
 # Клонируй репозиторий
 git clone https://github.com/VladislavKhudash/Obfuscator.git
 
-# Перейди в папку
+# Запуск
 python obfuscator.py
