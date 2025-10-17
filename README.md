@@ -20,3 +20,6 @@ git clone https://github.com/VladislavKhudash/Obfuscator.git
 
 # Запуск
 python obfuscator.py
+
+
+![Описание картинки](obfuscator.png)
