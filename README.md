@@ -16,10 +16,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/VladislavKhudash/название_проекта.git
+git clone https://github.com/VladislavKhudash/Obfuscator.git
 
 # Перейди в папку
-cd название_проекта
-
-# (опционально) Установи зависимости
-pip install -r requirements.txt
+python obfuscator.py
