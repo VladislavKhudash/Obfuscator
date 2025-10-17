@@ -4,7 +4,7 @@
 obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым.
 
 ---
-
+## RU
 ## 🚀 Возможности
 
 - ✅ Запутывает код Python
@@ -22,6 +22,5 @@ git clone https://github.com/VladislavKhudash/Obfuscator.git
 # Запуск
 python obfuscator.py
 ```
-
 
 ![obfuscator](obfuscator.png)
