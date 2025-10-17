@@ -24,5 +24,4 @@ python obfuscator.py
 ```
 
 
-
-!(obfuscator.png)
+![obfuscator](obfuscator.png)
