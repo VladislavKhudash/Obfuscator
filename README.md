@@ -22,6 +22,8 @@ git clone https://github.com/VladislavKhudash/Obfuscator.git
 python obfuscator.py
 ```
 
+<br><br>
+
 ![obfuscator](obfuscator.png)
 
 <br><br><br><br>
@@ -47,5 +49,6 @@ git clone https://github.com/VladislavKhudash/Obfuscator.git
 # Запуск
 python obfuscator.py
 ```
+<br><br>
 
 ![obfuscator](obfuscator.png)
