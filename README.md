@@ -1,7 +1,7 @@
 # 🌟 obfuscator
  
 ## en
-obfuscator - hides Python code for security purposes but leaves it executable.
+obfuscator - hides Python code for security purposes but leaves it executable
 
 ---
 ## 🚀 Possibilities
@@ -27,7 +27,7 @@ python obfuscator.py
 <br><br><br><br>
 
 ## ru
-obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым.
+obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым
 
 ---
 ## 🚀 Возможности
