@@ -171,10 +171,10 @@ def get_python_file():
         user_pattern_main = entry_pattern_main.get()
         user_pattern_another = entry_pattern_another.get()
 
-        if user_pattern_length.isdigit() and int(user_pattern_length) >= 2:
+        if user_pattern_length.isdigit() and int(user_pattern_length) >= 4:
             PATTERN_LENGTH = int(user_pattern_length)
         else:
-            showerror('Obfuscator', f'Incorrect PATTERN_LENGTH = {user_pattern_length}\n\nCorrect PATTERN_LENGTH = [2, ∞]')
+            showerror('Obfuscator', f'Incorrect PATTERN_LENGTH = {user_pattern_length}\n\nCorrect PATTERN_LENGTH = [4, ∞]')
             return
         
         if user_pattern_main != user_pattern_another and len(user_pattern_main) >= 4:
@@ -227,3 +227,4 @@ def main():
 
 
 main()
+
