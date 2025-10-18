@@ -15,7 +15,7 @@ obfuscator - Obfuscate Python code for security purposes, but leave it executabl
 ## 🚀 Features
 
 - ✅ Obfuscate Python Code
-- ⚙️ It remains executable
+- ⚙️ It remain executable
 - 📦 Built-in libraries only
   
 <br>
