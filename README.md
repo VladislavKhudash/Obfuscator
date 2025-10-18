@@ -8,7 +8,7 @@
 
 <br>
 
-obfuscator - Hides Python code for security purposes but leaves it executable
+obfuscator - Obfuscate Python code for security purposes but leaves it executable
 
 <br>
 
