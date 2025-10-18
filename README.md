@@ -8,7 +8,7 @@
 
 <br>
 
-obfuscator - hides Python code for security purposes but leaves it executable
+obfuscator - Hides Python code for security purposes but leaves it executable
 
 <br>
 
@@ -42,7 +42,7 @@ python obfuscator.py
 
 <br>
 
-obfuscator - скрывает код Python в целях безопасности, но оставляет его исполняемым
+obfuscator - Скрывает код Python в целях безопасности, но оставляет его исполняемым
 
 <br>
 
