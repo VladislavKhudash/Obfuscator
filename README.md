@@ -1,4 +1,4 @@
-# 🌟 obfuscator
+# 🌟 Obfuscator
 
 
 <br><br>
@@ -24,7 +24,7 @@ obfuscator - Obfuscate Python code for security purposes, but leave it executabl
 
 ```bash
 # Clone the repository
-git clone https://github.com/VladislavKhudash/Obfuscator.git
+git clone https://github.com/cppandpython/obfuscator.git
 
 # Launch
 python obfuscator.py
@@ -58,7 +58,7 @@ obfuscator - Обфусцирует код Python в целях безопасн
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/VladislavKhudash/Obfuscator.git
+git clone https://github.com/cppandpython/obfuscator.git
 
 # Запуск
 python obfuscator.py
